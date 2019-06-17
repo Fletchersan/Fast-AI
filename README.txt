@@ -2,3 +2,4 @@ This is a basic multi class classifier, which can identify upto 37 different spe
 The training time was 8 minutes on Google Colabs Free server.
 6 runthroughs of the training data were made.
 
+This was acheived by using a pretrained resnet34 model.
